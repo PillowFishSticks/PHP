@@ -1,0 +1,27 @@
+/* navbar */
+
+.font {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 100px;
+}
+
+.btnsize {
+	height: 100px;
+	width: 300px;
+	font-size: 30px;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+/* cards */
+
+
+/* footer */
+
+.footerfont {
+	font-family: 'Alfa Slab One', cursive;
+}
+
+.copyright {
+	text-decoration: none;
+}
+
